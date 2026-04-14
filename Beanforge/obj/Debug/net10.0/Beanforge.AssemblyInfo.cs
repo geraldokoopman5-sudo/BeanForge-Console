@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Beanforge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6391d39a198f9d822ee3ec234c01c7d8a58ba150")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e956d99a66f4bd1ca9773ef3e58cdd41ddd11e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Beanforge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Beanforge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

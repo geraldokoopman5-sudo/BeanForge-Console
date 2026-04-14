@@ -1,0 +1,15 @@
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\bin\Debug\net10.0\Beanforge.exe
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\bin\Debug\net10.0\Beanforge.deps.json
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\bin\Debug\net10.0\Beanforge.runtimeconfig.json
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\bin\Debug\net10.0\Beanforge.dll
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\bin\Debug\net10.0\Beanforge.pdb
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\obj\Debug\net10.0\Beanforge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\obj\Debug\net10.0\Beanforge.AssemblyInfoInputs.cache
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\obj\Debug\net10.0\Beanforge.AssemblyInfo.cs
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\obj\Debug\net10.0\Beanforge.csproj.CoreCompileInputs.cache
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\obj\Debug\net10.0\Beanforge.sourcelink.json
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\obj\Debug\net10.0\Beanforge.dll
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\obj\Debug\net10.0\refint\Beanforge.dll
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\obj\Debug\net10.0\Beanforge.pdb
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\obj\Debug\net10.0\Beanforge.genruntimeconfig.cache
+C:\Users\Inyosi Empowermen SD\Documents\Git Repo's\Project from eight\Beanforge\obj\Debug\net10.0\ref\Beanforge.dll

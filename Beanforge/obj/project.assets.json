@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Inyosi Empowermen SD\\Documents\\Projects-C--\\Beanforge\\Beanforge.csproj",
+      "projectUniqueName": "C:\\Users\\Inyosi Empowermen SD\\Documents\\Git Repo's\\Project from eight\\Beanforge\\Beanforge.csproj",
       "projectName": "Beanforge",
-      "projectPath": "C:\\Users\\Inyosi Empowermen SD\\Documents\\Projects-C--\\Beanforge\\Beanforge.csproj",
+      "projectPath": "C:\\Users\\Inyosi Empowermen SD\\Documents\\Git Repo's\\Project from eight\\Beanforge\\Beanforge.csproj",
       "packagesPath": "C:\\Users\\Inyosi Empowermen SD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Inyosi Empowermen SD\\Documents\\Projects-C--\\Beanforge\\obj\\",
+      "outputPath": "C:\\Users\\Inyosi Empowermen SD\\Documents\\Git Repo's\\Project from eight\\Beanforge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
